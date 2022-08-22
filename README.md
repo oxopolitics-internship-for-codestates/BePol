@@ -27,6 +27,8 @@
 | --- | --- | --- | --- |
 | [GITHUB](https://github.com/soominna) | [GITHUB](https://github.com/Hojewl) | [GITHUB](https://github.com/dltmddus) | [GITHUB](https://github.com/lsj135779) |
 
+### [🔗 배포 링크](http://bepol-deploy-bucket.s3-website.ap-northeast-2.amazonaws.com/)
+
 ### [📓 GO TO NOTION](https://vaulted-occupation-087.notion.site/BePol-Be-the-Politician-de667e6dfacf435fb0de2d01702d59a2)
 
 ## 🚚 BePol은 어떤 서비스인가요?
