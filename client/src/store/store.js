@@ -9,7 +9,7 @@ import {
   REGISTER,
 } from "redux-persist";
 import storage from "redux-persist/lib/storage"; // 로컬스토리지에 저장
-import rootReducer from "./../reducers/rootReducer";
+import rootReducer from "../reducers/rootReducer";
 
 const persistConfig = {
   key: "root",

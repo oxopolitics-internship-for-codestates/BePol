@@ -64,7 +64,7 @@ export default function Header() {
     <Container>
       <Link to="/">
         <Logo>
-          <img src="/images/logo.png" alt="Bepol logo" />
+          <img src="/images/logo_transparent.png" alt="Bepol logo" />
         </Logo>
       </Link>
       {isLogin ? (
