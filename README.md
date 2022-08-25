@@ -65,13 +65,9 @@
 
 ![image](https://user-images.githubusercontent.com/73332608/184178464-82850aa0-cccf-4cb8-881d-70fe34db1304.png)
 
-## 📹 주요 페이지
+## 📹 Final App View
 
-### 📌 메인페이지
-
-### 📌 투표 페이지
-
-### 📌 통계 페이지
+[LINK](https://github.com/oxopolitics-internship-for-codestates/BePol/wiki/Final-Web-View)
 
 ### Worklog
 
