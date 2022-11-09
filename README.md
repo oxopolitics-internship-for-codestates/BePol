@@ -25,7 +25,7 @@
   
 | 나수민 | 송혜원 | 이승연 | 이승준 |
 | --- | --- | --- | --- |
-| [GITHUB](https://github.com/soominna) | [GITHUB](https://github.com/Hojewl) | [GITHUB](https://github.com/dltmddus) | [GITHUB](https://github.com/lsj135779) |
+| [GITHUB](https://github.com/soominna) | [GITHUB](https://github.com/Hojewl) | [GITHUB](https://github.com/dltmddus1998) | [GITHUB](https://github.com/lsj135779) |
 
 ### [🔗 배포 링크](http://bepol-deploy-bucket.s3-website.ap-northeast-2.amazonaws.com/)
 
